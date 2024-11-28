@@ -1,0 +1,1233 @@
+,date,text,sentiment,confidence,weight
+0,2021-04-16,,positive,0.42418474,4811
+1,2021-04-29,,positive,0.42418474,3936
+2,2021-05-28,,positive,0.42418474,3911
+3,2021-06-03,,positive,0.42418474,3538
+4,2021-05-15,,positive,0.42418474,3378
+5,2021-06-02,,positive,0.42418474,3358
+6,2021-05-08,,positive,0.42418474,3291
+7,2021-05-09,,positive,0.42418474,2986
+8,2021-02-09,,positive,0.42418474,2807
+9,2021-04-18,,positive,0.42418474,2783
+10,2021-04-22,,positive,0.42418474,2693
+11,2021-06-04,,positive,0.42418474,2629
+12,2021-06-25,,positive,0.42418474,2590
+13,2021-04-15,,positive,0.42418474,2586
+14,2021-04-26,,positive,0.42418474,2548
+15,2022-01-22,,positive,0.42418474,2457
+16,2021-04-24,,positive,0.42418474,2419
+17,2021-05-07,,positive,0.42418474,2383
+18,2021-05-31,,positive,0.42418474,2369
+19,2022-02-19,,positive,0.42418474,2239
+20,2021-12-17,,positive,0.42418474,2235
+21,2021-06-08,,positive,0.42418474,2168
+22,2021-01-28,,positive,0.42418474,2160
+23,2021-04-22,,positive,0.42418474,2123
+24,2021-03-18,,positive,0.42418474,2103
+25,2021-03-02,,positive,0.42418474,2082
+26,2021-07-09,,positive,0.42418474,2076
+27,2021-05-18,,positive,0.42418474,2057
+28,2021-04-13,,positive,0.42418474,1989
+29,2021-05-09,,positive,0.42418474,1979
+30,2021-07-21,,positive,0.42418474,1941
+31,2022-11-12,,positive,0.42418474,1937
+32,2021-07-13,,positive,0.42418474,1914
+33,2021-09-10,,positive,0.42418474,1905
+34,2021-05-14,,positive,0.42418474,1903
+35,2021-05-10,,positive,0.42418474,1890
+36,2021-06-03,,positive,0.42418474,1883
+37,2021-02-11,,positive,0.42418474,1864
+38,2021-09-27,,positive,0.42418474,1821
+39,2021-07-19,,positive,0.42418474,1825
+40,2021-04-23,,positive,0.42418474,1809
+41,2021-06-13,,positive,0.42418474,1809
+42,2021-06-17,,positive,0.42418474,1800
+43,2021-02-14,,positive,0.42418474,1791
+44,2022-05-13,,positive,0.42418474,1775
+45,2022-01-14,,positive,0.42418474,1778
+46,2021-07-02,,positive,0.42418474,1754
+47,2022-03-10,,positive,0.42418474,1730
+48,2021-07-11,,positive,0.42418474,1735
+49,2022-01-20,,positive,0.42418474,1734
+50,2021-06-18,,positive,0.42418474,1731
+51,2021-04-23,,positive,0.42418474,1667
+52,2021-08-24,,positive,0.42418474,1637
+53,2021-05-04,,positive,0.42418474,1631
+54,2021-09-20,,positive,0.42418474,1610
+55,2022-11-11,,positive,0.42418474,1597
+56,2021-06-19,,positive,0.42418474,1588
+57,2021-06-23,,positive,0.42418474,1581
+58,2021-02-28,,positive,0.42418474,1581
+59,2021-04-10,,positive,0.42418474,1573
+60,2021-08-17,,positive,0.42418474,1553
+61,2021-06-23,,positive,0.42418474,1545
+62,2021-06-23,,positive,0.42418474,1524
+63,2021-06-06,,positive,0.42418474,1527
+64,2021-03-01,,positive,0.42418474,1513
+65,2021-05-31,,positive,0.42418474,1488
+66,2022-12-24,,positive,0.42418474,1474
+67,2021-02-20,,positive,0.42418474,1465
+68,2021-05-21,,positive,0.42418474,1465
+69,2022-02-03,,positive,0.42418474,1451
+70,2021-02-01,,positive,0.42418474,1431
+71,2021-02-23,,positive,0.42418474,1413
+72,2021-07-30,,positive,0.42418474,1398
+73,2021-10-29,,positive,0.42418474,1379
+74,2021-01-29,,positive,0.42418474,1377
+75,2021-02-16,,positive,0.42418474,1368
+76,2021-03-27,,positive,0.42418474,1359
+77,2021-11-16,,positive,0.42418474,1348
+78,2024-02-04,,positive,0.42418474,1343
+79,2022-06-19,,positive,0.42418474,1342
+80,2021-05-21,,positive,0.42418474,1326
+81,2021-05-19,,positive,0.42418474,1330
+82,2022-05-18,,positive,0.42418474,1324
+83,2021-04-15,,positive,0.42418474,1319
+84,2021-01-28,,positive,0.42418474,1317
+85,2022-12-14,,positive,0.42418474,1314
+86,2021-02-03,,positive,0.42418474,1295
+87,2021-02-08,,positive,0.42418474,1291
+88,2022-02-01,,positive,0.42418474,1286
+89,2021-11-23,,positive,0.42418474,1289
+90,2021-03-25,,positive,0.42418474,1290
+91,2021-04-20,,positive,0.42418474,1281
+92,2021-02-07,,positive,0.42418474,1276
+93,2022-05-29,,positive,0.42418474,1277
+94,2021-05-05,,positive,0.42418474,1276
+95,2022-01-21,,positive,0.42418474,1270
+96,2021-08-06,,positive,0.42418474,1267
+97,2021-02-06,,positive,0.42418474,1264
+98,2021-07-22,,positive,0.42418474,1259
+99,2021-07-23,,positive,0.42418474,1243
+100,2021-07-25,,positive,0.42418474,1250
+101,2021-03-23,,positive,0.42418474,1246
+102,2022-03-16,,positive,0.42418474,1238
+103,2021-02-15,,positive,0.42418474,1237
+104,2022-08-18,,positive,0.42418474,1221
+105,2021-05-02,,positive,0.42418474,1210
+106,2021-12-28,,positive,0.42418474,1212
+107,2021-02-26,,positive,0.42418474,1204
+108,2021-08-13,,positive,0.42418474,1194
+109,2021-03-19,,positive,0.42418474,1174
+110,2022-06-18,,positive,0.42418474,1176
+111,2021-04-14,,positive,0.42418474,1168
+112,2021-02-12,,positive,0.42418474,1170
+113,2021-05-10,,positive,0.42418474,1166
+114,2021-03-11,,positive,0.42418474,1162
+115,2022-03-18,,positive,0.42418474,1154
+116,2021-02-19,,positive,0.42418474,1154
+117,2021-04-18,,positive,0.42418474,1152
+118,2022-08-07,,positive,0.42418474,1146
+119,2021-11-08,,positive,0.42418474,1137
+120,2022-09-29,,positive,0.42418474,1140
+121,2022-05-12,,positive,0.42418474,1128
+122,2022-06-23,,positive,0.42418474,1126
+123,2021-04-09,,positive,0.42418474,1123
+124,2021-05-18,,positive,0.42418474,1126
+125,2021-05-05,,positive,0.42418474,1123
+126,2021-02-05,,positive,0.42418474,1102
+127,2021-06-04,,positive,0.42418474,1094
+128,2021-03-03,,positive,0.42418474,1101
+129,2022-04-07,,positive,0.42418474,1101
+130,2022-06-17,,positive,0.42418474,1095
+131,2021-05-25,"When did we stop educating ourselves from guys like Antonopoulos, Vitalik and Hoskinson, who have an in depth understanding of how blockachain works and a clear vision about the future?And why did we instead started listening to the uneducated opinions of billionaire superstars, who have already shown through their work ethics on their companies that they could not care less about decentralisation, have no vision for the space apart from profit and memes, and are now working behind closed doors on something that could potentially result in a major fork, where the core issue not only isn't technical, but could be absolutely catastrophic for transactional freedom and decentralisation of miners.
+
+Please people, please stop feeding them with attention, clicks and your time. Let their own incompetence be their downfall and let people like the aforementioned blockachain pionners and many more that we know exist, provide the appropriate counter arguments.",positive,0.8970297,1098
+132,2021-03-03,,positive,0.42418474,1086
+133,2021-05-12,,positive,0.42418474,1082
+134,2021-06-27,,positive,0.42418474,1071
+135,2021-10-14,,positive,0.42418474,1062
+136,2021-06-22,"Dark time to be a crypto investorIt is a hard time for all crypto investors right now. Literally everything is red, esp after it has been a hard couple weeks on the crypto markers. Many of us are holding bags, many of us have lost money that we couldn't afford to lose, some of us might not be able to pay rent or mortgages or possibly even buy food...
+
+&#x200B;
+
+Most of us invested in crypto to 'get rich' or at least escape poverty... weather we like to admit it or not we invest because we want a better life for ourselves, our family, our children etc
+
+&#x200B;
+
+Sure people who are on their high horse will say don't spend money you cant lose, dont over leverage, dont buy crypto, dont xyz - But that doesn't help in this moment and it isnt fair to be kicked when you're down.
+
+&#x200B;
+
+There have been many crashes in crypto and probably many more to come. I'm not here to tell you to Hold or buy the dip or even sell. I'm just here to tell you that you're not alone, tomorrow is another day.
+
+&#x200B;
+
+So where ever you are around the world, whatever you do just know others are all hurting just like you right now and we will be better investors for this experience and for those that are HODLing like me just know we will see better days again and not to give up on chasing a better financial future for yourself.
+
+&#x200B;
+
+TL: This is Pastry1 from Australia tell you to stay strong! ",positive,0.801564,1062
+137,2022-01-30,,positive,0.42418474,1051
+138,2021-11-09,"My no.1 tip to find gems before anyone elseSo, I'm sharing a secret tip of mine that I've used to make most of my gains this season.
+
+**A technique I've refined to find amazing, under the radar Twitter profiles.**
+
+Because in my opinion, following the correct accounts on Twitter can have a huge benefit to your success in this space.
+
+I'm not talking about huge influencers. I'm talking about those insane, under the radar accounts with a few thousand followers who are just freaks at finding gems.
+
+**So, here's how.**
+
+When you come across a project/coin that has done incredibly well, search the $Cashtag in Twitter (e.g. $PILOT), but then select the three dots in the top corner for 'Advanced Search.'
+
+In the advanced search, re-enter the $Cashtag in the top field and then scroll to the bottom to find 'Dates.' Here, you can select an exact date range to refine your search!
+
+**The important part: choose dates before a coin started to blow up.**
+
+For example, search $PILOT and select the date range October 10, 2021, to October 15, 2021.
+
+The result?
+
+You'll find whoever was talking about PILOT before it blew up. These are people who had conviction before anyone else (and even enough conviction to post about on Twitter about it).
+
+You can now follow these accounts and wait for the next project they talk about.
+
+You'll end up finding the most amazing accounts who will provide the alpha going forward.
+
+**EDIT: Then you DYOR on these projects!! I'm not saying ape blindly into whatever they call next haha, it's a starting point for finding new projects then commencing your own research.**
+
+Lastly, some of these smaller accounts have Telegram or Discords in their bio, so you can interact with them directly. This lets you dive even deeper.
+
+Hope this helps! WAGMI",positive,0.92460763,1032
+139,2021-06-07,,positive,0.42418474,1033
+140,2022-07-11,,positive,0.42418474,1034
+141,2021-04-21,,positive,0.42418474,1029
+142,2021-03-01,,positive,0.42418474,1018
+143,2022-06-20,,positive,0.42418474,1019
+144,2023-01-03,,positive,0.42418474,1018
+145,2021-03-16,,positive,0.42418474,1024
+146,2021-05-16,,positive,0.42418474,999
+147,2021-09-30,,positive,0.42418474,997
+148,2021-11-12,,positive,0.42418474,995
+149,2021-12-25,,positive,0.42418474,989
+150,2022-11-16,,positive,0.42418474,988
+151,2021-10-04,,positive,0.42418474,988
+152,2022-11-12,,positive,0.42418474,979
+153,2021-05-11,,positive,0.42418474,982
+154,2021-10-04,,positive,0.42418474,969
+155,2022-09-01,,positive,0.42418474,954
+156,2021-03-25,,positive,0.42418474,950
+157,2021-04-08,,positive,0.42418474,948
+158,2021-07-07,,positive,0.42418474,942
+159,2021-11-20,,positive,0.42418474,945
+160,2022-08-25,,positive,0.42418474,926
+161,2022-09-28,,positive,0.42418474,929
+162,2021-02-27,,positive,0.42418474,929
+163,2021-08-12,,positive,0.42418474,923
+164,2022-03-05,,positive,0.42418474,926
+165,2021-10-06,,positive,0.42418474,912
+166,2021-06-27,,positive,0.42418474,903
+167,2021-11-11,,positive,0.42418474,903
+168,2022-09-30,,positive,0.42418474,891
+169,2022-01-14,,positive,0.42418474,888
+170,2021-05-13,,positive,0.42418474,881
+171,2021-06-24,,positive,0.42418474,875
+172,2021-01-21,,positive,0.42418474,872
+173,2021-08-08,,positive,0.42418474,868
+174,2021-07-23,,positive,0.42418474,868
+175,2022-09-04,,positive,0.42418474,859
+176,2020-02-20,,positive,0.42418474,869
+177,2022-02-04,,positive,0.42418474,858
+178,2021-12-23,,positive,0.42418474,855
+179,2021-05-29,,positive,0.42418474,855
+180,2021-04-16,,positive,0.42418474,850
+181,2021-06-17,,positive,0.42418474,838
+182,2021-01-13,,positive,0.42418474,833
+183,2021-06-16,,positive,0.42418474,830
+184,2021-03-30,,positive,0.42418474,820
+185,2020-12-20,,positive,0.42418474,817
+186,2022-06-21,,positive,0.42418474,817
+187,2021-04-25,,positive,0.42418474,816
+188,2021-02-10,,positive,0.42418474,811
+189,2022-04-16,,positive,0.42418474,812
+190,2021-06-11,,positive,0.42418474,810
+191,2021-04-09,,positive,0.42418474,809
+192,2021-03-09,,positive,0.42418474,812
+193,2021-03-24,,positive,0.42418474,808
+194,2022-07-24,,positive,0.42418474,803
+195,2021-04-28,,positive,0.42418474,805
+196,2021-10-27,,positive,0.42418474,804
+197,2021-03-13,,positive,0.42418474,808
+198,2022-06-21,,positive,0.42418474,792
+199,2022-01-21,,positive,0.42418474,792
+200,2021-09-20,,positive,0.42418474,785
+201,2021-06-30,,positive,0.42418474,790
+202,2021-04-22,,positive,0.42418474,783
+203,2021-03-05,,positive,0.42418474,789
+204,2021-05-21,,positive,0.42418474,782
+205,2021-09-14,"ETH Killer, Solana, Attempts SuicideIf I didn’t know any better, I’d say Solana is gonna hear from the SEC pretty soon. Their ability to shut down the network on a whim today proves extreme centralization, thus making them a security. And, this has happened several times. Other areas of concern are they have 600 nodes managed by three companies, 95% of total tokens are owned and controlled by VC, Team members, and the foundation. 5% of tokens in circulation are available to purchase. Most of that 95% of the market is locked in staking and has a two day unlocking period. Sending good vibes to the small bag holders that big bags don’t dump. After thoroughly reviewing the project, I’m just not brave enough to catch this flight.",positive,0.8191674,779
+206,2022-11-14,,positive,0.42418474,778
+207,2021-02-20,,positive,0.42418474,776
+208,2021-11-07,,positive,0.42418474,772
+209,2021-05-16,,positive,0.42418474,767
+210,2021-04-12,,positive,0.42418474,756
+211,2022-01-26,,positive,0.42418474,749
+212,2022-04-11,,positive,0.42418474,744
+213,2022-10-13,,positive,0.42418474,743
+214,2021-01-16,,positive,0.42418474,740
+215,2021-05-19,,positive,0.42418474,737
+216,2021-10-01,,positive,0.42418474,735
+217,2022-11-05,,positive,0.42418474,730
+218,2021-02-02,,positive,0.42418474,727
+219,2022-06-01,,positive,0.42418474,728
+220,2022-04-29,,positive,0.42418474,722
+221,2021-04-08,,positive,0.42418474,722
+222,2021-12-19,,positive,0.42418474,720
+223,2022-05-16,,positive,0.42418474,709
+224,2021-06-10,,positive,0.42418474,717
+225,2021-01-24,,positive,0.42418474,708
+226,2022-08-22,,positive,0.42418474,705
+227,2021-10-31,,positive,0.42418474,707
+228,2021-04-02,,positive,0.42418474,705
+229,2022-07-31,,positive,0.42418474,702
+230,2022-11-22,,positive,0.42418474,703
+231,2021-12-15,,positive,0.42418474,694
+232,2021-03-01,,positive,0.42418474,699
+233,2021-05-27,,positive,0.42418474,694
+234,2021-05-04,,positive,0.42418474,690
+235,2021-04-28,,positive,0.42418474,693
+236,2021-10-22,,positive,0.42418474,685
+237,2022-05-27,,positive,0.42418474,687
+238,2022-03-07,,positive,0.42418474,688
+239,2021-10-31,,positive,0.42418474,687
+240,2022-01-31,,positive,0.42418474,685
+241,2021-01-29,,positive,0.42418474,684
+242,2021-06-17,,positive,0.42418474,681
+243,2021-06-30,,positive,0.42418474,679
+244,2021-03-13,,positive,0.42418474,676
+245,2022-02-06,,positive,0.42418474,682
+246,2021-01-15,,positive,0.42418474,679
+247,2022-10-22,,positive,0.42418474,675
+248,2021-09-20,,positive,0.42418474,675
+249,2021-10-20,,positive,0.42418474,668
+250,2022-07-10,,positive,0.42418474,666
+251,2023-03-13,,positive,0.42418474,662
+252,2021-05-01,,positive,0.42418474,665
+253,2021-03-19,"My Girlfriend Dumped Me Because Of My Addiction To THETA TOKENS LOL!Right so here it is,
+Sometime in April 2020 I bought 100,000 THETA Tokens at about 0.17 cents each totalling $17,000 AUD
+
+About 6-7 weeks later my girlfriend found out and dumped me because I according to her ""was wasting my money on stupid fake internet currencies"" 
+
+Almost a year later, today we peaked at $11.80 AUD im sitting on $1.180 mill and I wish I bought MORE!
+
+So yeah, fuck you Jessica.
+
+Ps. Feel free to follow me on [THETA.TV] (http://theta.tv/gravedin)",positive,0.7542243,658
+254,2022-11-13,,positive,0.42418474,652
+255,2022-05-24,,positive,0.42418474,652
+256,2022-05-09,,positive,0.42418474,656
+257,2022-01-31,,positive,0.42418474,646
+258,2021-05-02,,positive,0.42418474,644
+259,2022-05-24,,positive,0.42418474,651
+260,2022-05-31,,positive,0.42418474,643
+261,2021-05-25,,positive,0.42418474,635
+262,2021-10-27,,positive,0.42418474,634
+263,2022-04-22,,positive,0.42418474,639
+264,2022-01-30,,positive,0.42418474,631
+265,2021-09-06,,positive,0.42418474,630
+266,2021-04-01,,positive,0.42418474,635
+267,2021-07-29,,positive,0.42418474,624
+268,2021-04-27,,positive,0.42418474,631
+269,2022-06-12,,positive,0.42418474,620
+270,2022-04-08,,positive,0.42418474,615
+271,2021-11-20,,positive,0.42418474,611
+272,2021-09-21,"Evergrande’s Situation & CryptoI keep seeing people post about Evergrande making interest payments on time and that the world is good again. I used to work on a bulge bracket Asia HY bond desk and this is not the case. 
+
+Twitter and the Media is missing the full picture and no one has pointed it out yet. 
+
+We aren’t fully out of the woods. There is a difference between onshore (denominated in CNY) and offshore bonds (USD). Evergrande has offshore coupon denominated in USD due Sep 23 and have yet to make an announcement on those. Given a choice, they would pay onshore first. Should they decide not to pay USD, this will hurt global investors regardless. That said, there is still a 30-day grace period so it’s not end of the world, even if they don’t. 
+
+The CCP won’t directly step in but they will save the house buyers in the case of a default (so they don’t see any protesting etc). SOE banks will be the first to get screwed and majority of loans/commercial papers are to them. The scary part is that we’re not too sure how many of these guys re-levered this debt into other instruments so there may be ticking bombs all around. 
+
+Ultimately, the nearest USD coupon that is due is on Sept 23rd (Thursday), roughly equating to US$100m in interest. Sure, you may meet that interest but the company still has $300bn of principal coupon worth to pay. 
+
+Personally, I see a few routes moving forward but one needs to look at the debt structure (1). horizontally (time-based) and (2). vertically (who and what type of debt do they hold) to see a better picture.
+
+Horizontally:
+- Sept 23, $83mio in interest due
+- Sept 29, $45mio in interest due
+- Oct 11, $~160mio in interest due
+- Nov 6, $80mio in interest due
+- Dec 28, $250mio in interest due
+
+Vertically:
+- 54% of its $300bn are in secured borrowings
+- 2% are convertible bonds (lower pecking order)
+- 21% are senior notes (this is mostly held by UHNW individuals and big funds/banks)
+- 6% PRC bonds (local onshore denominated debt)
+- 17% Unsecured direct bank borrowings (mostly to SOE banks)
+
+That said, my gutfeel is that the CCP will go in indirectly via the SOE banks taking the brunt of the hurt; they’ll likely working their butts off now with some meeting of sort with all EVERRE’s biggest debt/equity backers. The key players in this game are:
+
+[In order of importance to the CCP]. 
+1. People who bought homes (they will be taken care off first)
+2. Suppliers and construction companies contracted (perhaps this may be next)
+3. Public debt holders (UHNW/Funds/Banks) – the key people here are the funds/banks
+4. SOE banks who provided direct loans (govt backed anyways)
+5. Equity holders. 
+
+My guess at the end: some SOE banks come in with some package to save certain pieces of the above pie. Perhaps the CEO/management team gets reprimanded strongly? Either ways, this is the largest elephant in the room now and the Crypto market is worried of the repercussions and quakes that we could feel from this fallout.
+
+That said... enough about Evergrande, Crypto is dealing with its own troubles. Messari's Mainnet event got hijacked by a SEC subpoena, Mr Gensler called stablecoins 'poker chips' (we get it), and Binance derivatives service got clamped down in Australia.
+
+On-chain data wise: During the dip, BTC's LTH-SOPR (1.26) vs STH-SOPR (0.97) indicated short-term holders (speculators, swing-traders, etc.) sold into losses, while long-term holders took profit. Regardless, the stablecoin supply ratio fell, and the exchange reserves of BTC is nearing a six-month low. This suggest traders are flushed with cash, but whether they are willing to step in (presumably on long leverage positions) is another question. For the second day, BTC Long liquidation also indicated a sharp up spike relative to the past 12 days while the estimated leverage ratio hovered at the mid-point (relative to the past two weeks), suggesting a very risk-off environment.
+
+In derivatives: BTC and ETH option contract open interest held constant while traders adopted a wait-and-see approach to prices. Options skew indicators reflect a different story: 25% delta skew (Volatility premium for puts to calls), a significant jump, reflecting a high belief among option traders that further downward movement is imminent. Coin days destroyed also show that the move was mostly driven by short-term traders. 
+
+Personally, I like to fade such event-driven markets (but only post FOMC). Just note that conditions are primed such that if we get very positive news, people are flushed with cash for a jolt back to risk. A gentle nudge to also remember just how short-term market participant thinks, and that one only needs to look just over the ridge to stay ahead. IMO, the Evergrande fiasco is starting to look more like a very controlled detonation by the CCP - even if their offshore entity defaults (after the 30-day grace period), it won’t trigger a cross-default to its onshore entity. Finally… I actually took Gary Gensler Washington Post interview early this morning to be bullish for Crypto long term. We certainly need certain aspects of the market to be reined in to progress further. Have a good one!
+
+- I write daily thoughts on Bitcoin/Crypto/TradFi for fun on Telegram too but I’m looking to start here! Some redditors have posted on my behalf on other channels too / most of which I can’t due to the lack of karma ",positive,0.9077145,603
+273,2021-05-21,,positive,0.42418474,601
+274,2021-07-15,,positive,0.42418474,601
+275,2021-08-19,,positive,0.42418474,594
+276,2022-11-09,,positive,0.42418474,599
+277,2022-09-30,,positive,0.42418474,590
+278,2021-02-04,,positive,0.42418474,596
+279,2021-03-29,,positive,0.42418474,589
+280,2021-03-07,,positive,0.42418474,589
+281,2023-01-19,,positive,0.42418474,589
+282,2022-09-03,,positive,0.42418474,584
+283,2022-09-23,,positive,0.42418474,585
+284,2022-06-30,,positive,0.42418474,587
+285,2022-02-21,,positive,0.42418474,588
+286,2022-11-30,,positive,0.42418474,585
+287,2021-01-31,,positive,0.42418474,579
+288,2021-01-08,,positive,0.42418474,582
+289,2021-10-30,"I don’t care how high SHIB goes. I’ll never invest in a meme coin.Yes, I’m in this market to make profit but I want to do that with legit projects not f#cking dog coins with no vision, technology or even any sort of back up.
+
+&#x200B;
+
+For real, how can people invest this blindly in something that has no back up what so ever. It’s literally hype driven and that’s it.
+
+&#x200B;
+
+Would much rather invest in coins with real technology behind them like ETH and ADA or any coin that has real intrinsic back up like Aurum’s gold backed tokens. Or old and very stablished coins like BTC.
+
+&#x200B;
+
+These meme coins and a fad and won’t be around for too long…",positive,0.92846715,580
+290,2021-03-13,,positive,0.42418474,578
+291,2022-09-28,,positive,0.42418474,578
+292,2021-07-01,,positive,0.42418474,578
+293,2021-11-02,,positive,0.42418474,576
+294,2023-03-17,,positive,0.42418474,571
+295,2021-12-16,,positive,0.42418474,578
+296,2022-03-11,,positive,0.42418474,571
+297,2022-01-21,,positive,0.42418474,566
+298,2021-03-26,,positive,0.42418474,567
+299,2023-10-14,,positive,0.42418474,561
+300,2021-08-05,,positive,0.42418474,568
+301,2022-06-07,,positive,0.42418474,561
+302,2020-11-24,,positive,0.42418474,556
+303,2022-07-20,,positive,0.42418474,551
+304,2021-03-13,,positive,0.42418474,554
+305,2021-11-09,,positive,0.42418474,554
+306,2020-12-27,,positive,0.42418474,548
+307,2022-04-09,,positive,0.42418474,553
+308,2021-08-05,,positive,0.42418474,549
+309,2021-01-22,,positive,0.42418474,542
+310,2021-10-17,,positive,0.42418474,549
+311,2024-02-15,,positive,0.42418474,546
+312,2022-03-04,,positive,0.42418474,549
+313,2021-08-11,,positive,0.42418474,549
+314,2021-06-21,,positive,0.42418474,542
+315,2022-02-11,,positive,0.42418474,546
+316,2021-07-31,,positive,0.42418474,546
+317,2021-10-05,,positive,0.42418474,545
+318,2021-02-23,"Tuesday special sale: 25% on everything (except stablecoin)Some of the highlights of our Tuesday Special Sale are Ethereum for $1399, Litecoin for $164.99, Bitcoin Cash for $459.99, Neo for $34.99, Uniswap for $19.99 and don't forget to take a look at our special offer Bitcoin for $45999. But you'll better be fast because it will end soon !(As a reminder: Stablecoins are not included in todays sale because of them being stable)",positive,0.9263251,539
+319,2022-07-15,,positive,0.42418474,541
+320,2021-07-05,,positive,0.42418474,538
+321,2021-04-14,,positive,0.42418474,538
+322,2021-03-06,,positive,0.42418474,538
+323,2022-09-20,,positive,0.42418474,533
+324,2022-12-18,,positive,0.42418474,531
+325,2021-05-19,,positive,0.42418474,531
+326,2021-02-06,,positive,0.42418474,533
+327,2022-02-14,,positive,0.42418474,523
+328,2021-03-30,,positive,0.42418474,519
+329,2022-08-03,,positive,0.42418474,517
+330,2021-07-22,,positive,0.42418474,520
+331,2020-12-28,,positive,0.42418474,522
+332,2022-03-03,,positive,0.42418474,521
+333,2022-01-19,,positive,0.42418474,521
+334,2021-11-08,,positive,0.42418474,522
+335,2022-02-22,,positive,0.42418474,519
+336,2021-04-14,,positive,0.42418474,514
+337,2020-07-17,,positive,0.42418474,517
+338,2022-02-21,"Getting on the guestlist - more than just an NFT dropThis looks so fing **cool.**
+
+I hadn’t heard of Token||Traxx until just recently, it’s a music NFT marketplace kind of thing “for musicians by musicians” that’ll reward you for collecting, sharing and creating music. I managed to get involved with their bounty campaign. I saw they were offering $10k in their TRAXX tokens, and also a chance to win their guestlist NFTs.
+
+When I completed the task and signed up, this is what they sent me over email:
+
+* Priority platform access at launch, ahead of the public access.
+* Access to exclusive NFT releases.
+* Direct connection to the founding team through our community channels.
+* First to receive platform news and developments.
+
+You can see for yourself here let me know what y’all think [https://tokentraxx.com/#guestlist](https://tokentraxx.com/#guestlist) 
+
+They’re also launching their token on March 14th - anyone else think to ape into this? Saw that they just announced this recently on their Twitter [https://twitter.com/Token\_Traxx](https://twitter.com/Token_Traxx)
+
+Pretty excited about this one, Zilliqa has been promoting them hard from their official account: [https://twitter.com/zilliqa/status/1493460917262389255?s=20&t=P9DbddYqioXvucQiVitYmw](https://twitter.com/zilliqa/status/1493460917262389255?s=20&t=P9DbddYqioXvucQiVitYmw)",positive,0.8436981,514
+339,2021-07-02,,positive,0.42418474,515
+340,2021-01-22,,positive,0.42418474,510
+341,2022-11-09,,positive,0.42418474,509
+342,2021-01-20,,positive,0.42418474,505
+343,2021-05-09,,positive,0.42418474,507
+344,2022-03-13,,positive,0.42418474,503
+345,2022-02-18,,positive,0.42418474,507
+346,2021-05-20,"Today, FlurMoon is giving away $120 to one lucky winner. FlurMoon, a new altcoin making waves in the crypto industry today, is giving out free cryptocurrency on a daily basis. Check out the link provided below to find out how to become involved.[https://twitter.com/flurbnb/status/1395262047084941314](https://twitter.com/flurbnb/status/1395262047084941314)
+
+Buy : [https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x3bb46f3b1f82d4fa6780653f06df9e7c4e7581ae…](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x3bb46f3b1f82d4fa6780653f06df9e7c4e7581ae…)
+
+&#x200B;
+
+https://preview.redd.it/lz86a0ajw9071.png?width=400&format=png&auto=webp&s=ed8db6abef0facc479a1186d31b0f3518ccb44d9",positive,0.93333775,503
+347,2023-02-14,,positive,0.42418474,507
+348,2021-07-11,,positive,0.42418474,505
+349,2021-01-17,,positive,0.42418474,502
+350,2022-10-27,,positive,0.42418474,503
+351,2021-10-26,,positive,0.42418474,504
+352,2021-06-15,,positive,0.42418474,498
+353,2021-04-01,,positive,0.42418474,499
+354,2021-10-27,,positive,0.42418474,496
+355,2022-09-29,,positive,0.42418474,496
+356,2021-02-21,,positive,0.42418474,497
+357,2021-02-16,,positive,0.42418474,495
+358,2021-08-26,,positive,0.42418474,486
+359,2021-12-24,,positive,0.42418474,492
+360,2021-03-20,,positive,0.42418474,486
+361,2022-04-27,,positive,0.42418474,487
+362,2022-09-19,,positive,0.42418474,482
+363,2022-02-18,,positive,0.42418474,483
+364,2021-09-08,,positive,0.42418474,484
+365,2023-09-21,,positive,0.42418474,482
+366,2022-06-17,,positive,0.42418474,481
+367,2021-12-17,,positive,0.42418474,475
+368,2022-12-12,,positive,0.42418474,476
+369,2022-04-14,,positive,0.42418474,480
+370,2021-10-10,,positive,0.42418474,484
+371,2021-07-16,,positive,0.42418474,481
+372,2022-07-26,,positive,0.42418474,476
+373,2022-04-18,,positive,0.42418474,478
+374,2021-11-12,,positive,0.42418474,479
+375,2023-01-04,,positive,0.42418474,472
+376,2022-08-17,,positive,0.42418474,474
+377,2021-05-19,,positive,0.42418474,474
+378,2022-11-12,,positive,0.42418474,468
+379,2021-11-12,,positive,0.42418474,472
+380,2021-11-02,,positive,0.42418474,474
+381,2021-09-02,,positive,0.42418474,476
+382,2023-11-19,,positive,0.42418474,470
+383,2022-11-23,,positive,0.42418474,471
+384,2022-02-21,,positive,0.42418474,469
+385,2021-07-21,,positive,0.42418474,470
+386,2022-08-27,,positive,0.42418474,471
+387,2023-01-25,,positive,0.42418474,472
+388,2021-05-14,"Cardano has done surprisingly well in troubled watersThe last few days have seen significant flux in the crypto market. Elon declared an end to the “buy a Tesla with Bitcoin” stunt. Binance landed in deep water with regulators in the US. Coinbase continued to underperform against expectations in the stock market. Most coins and tokens trended down.
+
+It is interesting how Cardano has flowed through this mess appreciating rather than decreasing in value. This is probably due to two simple things. One, it’s not Bitcoin, so it’s not in the primary spotlight of negative news. Two, it’s got perhaps the most momentum of third generation blockchains, and that makes it an easy hedge for those concerned with point one.
+
+However, let’s not get ahead of ourselves. ADA is probably overpriced right now, riding on a halo due to low interest capital, crypto hype, and the primary market option floundering. A re-pricing will probably occur, I would suggest alongside ETH, as both have surged far ahead of their internal market growth. By that, I mean ahead of the smart contracts or profitable tokens, or practical global deployments matching the scaling of the token price.
+
+These are heady times. It is a perfect moment to keep your hat firmly attached, stick to your long term plans, and not get distracted.
+
+== Additional Note ==
+
+I’m bullish about the long term, but I suspect we will have a jolt in the short term as peak crypto 2021 passes. It’s important to remember than the last time that happened, Cardano went from $1.0085 on January 1st 2018 to $0.1508 on March 26th 2018. In the latter part of the year it was trading in the 2 to 4 cent level with spikes to around 8 cent until April 2020, when it started the current upward trend, significantly accelerating in 2021. I don’t expect as dramatic a repricing this time because the fundamentals have improved. Nevertheless… one should reread the paragraph above if one finds oneself getting too excited.",neutral,0.49475625,466
+389,2022-12-07,,positive,0.42418474,470
+390,2022-05-08,,positive,0.42418474,465
+391,2021-03-23,,positive,0.42418474,459
+392,2021-08-13,,positive,0.42418474,463
+393,2023-10-18,,positive,0.42418474,464
+394,2022-12-12,,positive,0.42418474,458
+395,2022-02-03,,positive,0.42418474,454
+396,2021-11-01,,positive,0.42418474,458
+397,2021-07-01,,positive,0.42418474,456
+398,2021-01-18,,positive,0.42418474,450
+399,2022-11-25,,positive,0.42418474,454
+400,2022-04-26,,positive,0.42418474,449
+401,2021-04-21,,positive,0.42418474,452
+402,2024-01-26,,positive,0.42418474,448
+403,2022-11-17,,positive,0.42418474,456
+404,2023-05-10,,positive,0.42418474,445
+405,2023-02-22,,positive,0.42418474,446
+406,2022-12-16,,positive,0.42418474,450
+407,2022-02-26,,positive,0.42418474,454
+408,2022-02-17,,positive,0.42418474,446
+409,2020-12-23,,positive,0.42418474,449
+410,2021-11-09,"I put $100 into every crypto available on uphold exactly 2 months ago. Here is where it's atUphold had 39 available coins and tokens to trade and so far 7 have lost money. The biggest loser is serum(srm) at -$40 the smallest loser is synthetix(snx) at -$2 the biggest winner is helium(hnt) at +$133 and the smallest winner is bitcoin gold(btg) at +$3 in total across all 39 coins I have a profit of +$800 from $3900 for a total % of +%20 market wide
+
+
+EDIT: I've included a gif of my portfolio (with some stuff redacted that's not part of this experiment) so you can see all the coins and what they did
+
+https://gifyu.com/image/eG1u",positive,0.6520122,448
+411,2021-05-30,,positive,0.42418474,443
+412,2021-12-03,,positive,0.42418474,443
+413,2022-01-04,,positive,0.42418474,442
+414,2021-09-24,"Seriously, fuck the Chinese governmentMost of big countries' governments continuously seem to make persistent efforts to fuck their own people over, but I've never seen it more with the Chinese (and the US ofc) 
+
+Here in the midst of the collapse of their 2nd largest real estate company, the Chinese thinks it's wise to declare crypto illegal. Like wow, THAT'LL save the markets. CCP comin thru to once again save the fucking people like they always have right?? 
+
+For me, It's similar to Elon's tweets in the sense that the more it keeps happening, the less and less effect it has. If anything it just makes more and more people interested in why a country seemingly has to keep banning the same damn thing over and over again.  
+
+I don't think I'd last a second in China given how much shit I'd be talking. Seriously, people's obsession with control is truly fascinating, and I can't wait to see the CCP's grip on people start to wane. The same applies to the US government. Can't wait for the next war on *insert noun here*, in this case crypto.  When you take a second to think about it, each of these governments are filled with boomers who are more or less going to fucking DIE in the next decade or so. So don't you dare let their naive cluelessness influence your decades down the road. 
+
+My point is, brothers and sisters, FUCK anything a government tells you is ok or not ok, it is certainly not in your interest to follow their beliefs. But for the smart ones out there, y'all already knew that huh? Keep holding you guys, it'll be fine. 
+
+And if you sold, kudos to you, I hope you left with a bag.",positive,0.78065556,444
+415,2021-06-27,,positive,0.42418474,441
+416,2022-07-05,,positive,0.42418474,442
+417,2021-08-16,,positive,0.42418474,445
+418,2022-01-20,,positive,0.42418474,438
+419,2021-05-24,,positive,0.42418474,436
+420,2021-08-24,,positive,0.42418474,436
+421,2023-02-27,,positive,0.42418474,433
+422,2021-04-14,,positive,0.42418474,435
+423,2022-02-27,,positive,0.42418474,438
+424,2022-01-02,,positive,0.42418474,437
+425,2022-12-03,,positive,0.42418474,438
+426,2021-01-23,,positive,0.42418474,428
+427,2022-04-05,,positive,0.42418474,434
+428,2021-11-30,,positive,0.42418474,430
+429,2022-03-30,,positive,0.42418474,429
+430,2022-01-01,,positive,0.42418474,425
+431,2021-12-12,,positive,0.42418474,432
+432,2023-02-01,,positive,0.42418474,424
+433,2021-08-14,,positive,0.42418474,421
+434,2022-12-01,,positive,0.42418474,427
+435,2021-05-12,,positive,0.42418474,426
+436,2022-11-27,,positive,0.42418474,421
+437,2022-08-08,,positive,0.42418474,426
+438,2022-02-02,,positive,0.42418474,424
+439,2021-11-02,,positive,0.42418474,424
+440,2021-01-25,,positive,0.42418474,425
+441,2022-06-23,,positive,0.42418474,418
+442,2022-01-11,,positive,0.42418474,416
+443,2021-11-04,,positive,0.42418474,418
+444,2021-10-29,,positive,0.42418474,414
+445,2021-07-11,,positive,0.42418474,419
+446,2021-01-14,,positive,0.42418474,416
+447,2020-12-16,,positive,0.42418474,414
+448,2022-03-20,,positive,0.42418474,410
+449,2021-01-27,,positive,0.42418474,413
+450,2022-04-27,,positive,0.42418474,413
+451,2023-03-26,"I made a totally free tool for crypto enthusiasts!This is mainly just a hobby project I developed in my free time as a way to give back to the community I love. I have an unhealthy obsessions with cryptocurrency, and data which fuelled my desire to create an easy to use dashboard with minimal barriers to entry (completely free, no signups).
+
+I haven't really marketed it at all since i'm not 'selling' anything but I would like to share my work in case someone finds value and can benefit from it themselves :)
+
+Hope you find some value in what i've created - if not, i'm always open to feedback and suggestions.
+
+You can view......
+
+* Live trading price feed across most well known exchanges
+* Live liquidations as they occur across most exchanges
+* Live whale-watching movements (to and from exchanges \~ wallets)
+* View various metrics such as historical fear/greed, open interest, company holdings, news
+* Practice your trading skills with a simple paper-trading simulator (i'll be running a little competition soon)
+* Socialise with other people in the community chat - or don't - it's up to you and the site is fully usable without registering/logging in (aside from the paper-trading as you need an account to preserve your data).
+
+... and a bunch more stuff!
+
+The website is: [https://bitcoindashy.com](https://bitcoindashy.com/) For the paranoid, here's a google report on how safe the site is before you click on the link (which is always good practice): [https://transparencyreport.google.com/safe-browsing/search?url=bitcoindashy.com&hl=en](https://transparencyreport.google.com/safe-browsing/search?url=bitcoindashy.com&hl=en)
+
+Hope you enjoy!  
+
+
+&#x200B;
+
+https://preview.redd.it/723sk9i202qa1.png?width=3024&format=png&auto=webp&s=e14624b8f7497c396c45504d98b8b765286b8bd2",positive,0.9223379,411
+452,2021-11-25,,positive,0.42418474,412
+453,2022-07-14,,positive,0.42418474,405
+454,2023-03-25,,positive,0.42418474,407
+455,2021-08-02,,positive,0.42418474,406
+456,2020-11-30,,positive,0.42418474,405
+457,2022-02-24,,positive,0.42418474,400
+458,2021-08-19,,positive,0.42418474,397
+459,2021-08-08,,positive,0.42418474,399
+460,2024-05-10,,positive,0.42418474,396
+461,2021-02-20,,positive,0.42418474,395
+462,2022-11-18,,positive,0.42418474,395
+463,2020-07-31,,positive,0.42418474,402
+464,2021-03-10,,positive,0.42418474,398
+465,2020-08-26,,positive,0.42418474,401
+466,2021-05-21,,positive,0.42418474,395
+467,2021-01-06,,positive,0.42418474,400
+468,2020-12-04,,positive,0.42418474,396
+469,2021-12-23,,positive,0.42418474,396
+470,2023-06-12,,positive,0.42418474,394
+471,2021-03-22,,positive,0.42418474,393
+472,2021-06-09,,positive,0.42418474,395
+473,2021-11-19,,positive,0.42418474,395
+474,2021-10-15,The tribalism in Crypto is cringe. It’s the opposite of decentralization. Anyone in here who thinks they have all of the answers is full of it and there is a lot of money to made off of altcoins. It’s been proven over and over. No coin has a utility that is currently being utilized.I see the mods in CryptoCurrency controlling all of the posts. Which by the way would be the last thing I would be doing because eventually I see them personally getting sued or Reddit over Moon distribution. I see it here. I just saw a post somebody marked as “Scam” about Shiba (I own none). I could care less if you do. In fact awesome if you own Shiba. I hope you make a ton of money. Nobody in here has the answers. I see all of these people directing hate towards communities and it’s pathetic. I’m wondering why people put so much hate into it. Half of you are taking financial advice from high school kids or a man child keyboard warrior. There is a ton of good projects and we are really early at this point. If these people knew what they were talking about they wouldn’t be on here giving out free advice because they wouldn’t need to be. In fact I started buying coins people hate on and it’s been working. Right now in crypto sediment matters more than utility in a lot of cases. Your TA is a joke because it means nothing. It’s a waste of time and the whole stock market is rigged so you TA means shit there as well. Get over yourselves nobody here is a crypto prophet. All I see is a bunch of Jim Cramers on YouTube making money off of likes. One that comes to mind would be BitBoy. That guy sources bad articles and has never called one damn thing correctly yet I hear people echo his claims constantly as it’s all has to be true. Do your own research. It pays.,positive,0.6084294,395
+475,2022-11-07,,positive,0.42418474,389
+476,2021-12-31,,positive,0.42418474,388
+477,2021-02-14,,positive,0.42418474,389
+478,2023-04-10,,positive,0.42418474,384
+479,2021-06-04,,positive,0.42418474,389
+480,2022-12-18,,positive,0.42418474,383
+481,2022-11-10,,positive,0.42418474,385
+482,2022-06-17,,positive,0.42418474,386
+483,2022-04-01,,positive,0.42418474,382
+484,2021-11-28,,positive,0.42418474,384
+485,2021-01-05,,positive,0.42418474,384
+486,2022-03-12,,positive,0.42418474,384
+487,2020-10-07,,positive,0.42418474,383
+488,2022-11-11,,positive,0.42418474,378
+489,2021-11-18,,positive,0.42418474,382
+490,2022-10-23,,positive,0.42418474,381
+491,2022-03-25,,positive,0.42418474,378
+492,2021-10-26,,positive,0.42418474,384
+493,2021-03-27,,positive,0.42418474,381
+494,2020-08-19,,positive,0.42418474,380
+495,2023-03-16,,positive,0.42418474,380
+496,2022-02-03,,positive,0.42418474,376
+497,2020-12-31,,positive,0.42418474,377
+498,2021-08-18,,positive,0.42418474,375
+499,2020-06-25,,positive,0.42418474,376
+500,2021-11-30,,positive,0.42418474,380
+501,2021-03-09,,positive,0.42418474,377
+502,2022-11-12,,positive,0.42418474,374
+503,2020-10-20,,positive,0.42418474,377
+504,2021-05-22,,positive,0.42418474,372
+505,2021-04-05,,positive,0.42418474,377
+506,2021-02-21,,positive,0.42418474,374
+507,2020-12-23,,positive,0.42418474,373
+508,2020-06-09,,positive,0.42418474,374
+509,2022-11-26,,positive,0.42418474,372
+510,2021-10-03,,positive,0.42418474,370
+511,2021-06-12,,positive,0.42418474,368
+512,2021-02-08,,positive,0.42418474,367
+513,2021-08-22,,positive,0.42418474,366
+514,2021-11-25,"The metaverse is an absolute jokeWhy on earth would I buy fake real estate, play shit card games or using crappy avatars in some potential virtual city?
+
+I rather stick with playing fun and classic games like DOOM, Fallout,Halo, Fortnite, cod, Battlefield, animal crossing, mario the list is endless.
+
+These metaverse coins have insane valuations and have nothing to show for it, with low active user counts and shit games to play.
+
+Mana is a shitty browser game
+Axs is a boring card game 
+
+And most of these coins will take 5-10 years to finish why?
+
+BECAUSE GAMING DEVELOPMENT CAN DECADES TO COMPLETE.
+
+Just make your money and cash out before it dumps lol.",positive,0.49150822,368
+515,2021-06-25,,positive,0.42418474,370
+516,2020-12-26,,positive,0.42418474,372
+517,2022-09-15,,positive,0.42418474,368
+518,2022-02-18,,positive,0.42418474,369
+519,2021-10-19,,positive,0.42418474,373
+520,2022-11-22,,positive,0.42418474,369
+521,2022-02-15,,positive,0.42418474,364
+522,2022-02-14,,positive,0.42418474,369
+523,2022-06-18,,positive,0.42418474,368
+524,2021-10-22,,positive,0.42418474,369
+525,2022-11-18,,positive,0.42418474,359
+526,2022-07-08,,positive,0.42418474,361
+527,2020-06-13,,positive,0.42418474,362
+528,2021-07-01,,positive,0.42418474,367
+529,2021-02-14,,positive,0.42418474,359
+530,2022-07-30,,positive,0.42418474,366
+531,2022-12-21,,positive,0.42418474,356
+532,2022-02-06,"Ticketmaster watch out. NFT tickets are about to disrupt the ticketing industry. A comprehensive list of people who have advcated the benefits of NFT ticketing: From Mark Cuban to Vitalik **Benefits of NFT tickets include:**
+
+&#x200B;
+
+* **Preventing scams and fake tickets**: The blockchain provides a single source of truth for both organisers and ticket holders. The transfer of NFTs from initial sale to any subsequent resale is recorded immutably on the blockchain, so all parties involved can easily verify the authenticity of the ticket. Even cooler, in cases where resale of tickets is strictly forbidden, NFTs can be programmed as non-transferrable, so they physically cannot be moved to another buyer.
+* **Perpetual revenue:** As programmable digital assets NFTs can have built-in rules for resales, merchandise, content and royalty splits. This means that the organiser can determine profit sharing percentages for any future resales or downstream creative content on secondary markets, and reliably receive these funds knowing they are unalterable within the NFT’s coding.
+* **New revenue opportunities:** NFTs put tickets into the realm of programmable money, opening up unlimited potential for new revenue opportunities. For example resale of NFT tickets as **collectables,** using NFT tickets as a gateway for giving food and drink deals, even rewarding super fans who have collected a certain number of event tickets.
+
+Over the past year the NFT tickets have gained more attention in the crypto space. I have compiled extensive list of developers, investors, financial instintutions, ticketing companies and NBA owners that have advocated the benefits of NFT ticketing
+
+ **Mark Cuban – Entrepreneur, shark and owner of the Dallas Mavericks** 
+
+&#x200B;
+
+https://preview.redd.it/mxtowrn4r7g81.png?width=632&format=png&auto=webp&s=b136df5f401c2b96e18ec2f730ed8be90dea1f01
+
+ **Gary Vaynerchuk - CEO of** **Vaynermedia**\*\*, Creator of veefriends\*\* 
+
+&#x200B;
+
+https://preview.redd.it/racoxoa7r7g81.png?width=512&format=png&auto=webp&s=4ee1e8dacce4aa177bbd5e6acc8d28655a9b0324
+
+ **Jack Groetzinger – CEO Seatgeek** 
+
+&#x200B;
+
+https://preview.redd.it/r6mrqrz9r7g81.png?width=359&format=png&auto=webp&s=543bcc908a9595bb1ef6b0b6833bbc6dc9e39c83
+
+ **Ted Leonsis – owner of NBA's Wizards, the NHL's Capitals, the WNBA's Washington Mystics** 
+
+&#x200B;
+
+https://preview.redd.it/nqdc3s0dr7g81.png?width=944&format=png&auto=webp&s=46fdacbdeac0f0fdadf1d7bd6830464e947398e2
+
+ 
+
+**Barry Ritholtz – co-founder of Ritholtz wealth mangement – 2 billions usd under management**
+
+&#x200B;
+
+https://preview.redd.it/1uni3sggr7g81.png?width=455&format=png&auto=webp&s=58315aa34030c765c62263b73d3f3c42e46bb86a
+
+ **Coinmarketcap** 
+
+&#x200B;
+
+https://preview.redd.it/xf645lvjr7g81.png?width=474&format=png&auto=webp&s=9302749976153bc70298effdbf755c363ee2afaa
+
+ **Bankless** \- Carly Reilly
+
+&#x200B;
+
+https://preview.redd.it/echesa5nr7g81.png?width=368&format=png&auto=webp&s=c76733e2e6cbf65ff0111c1169b11684092f364f
+
+ **Grayscale - Worlds largest crypto asset manager** 
+
+&#x200B;
+
+https://preview.redd.it/cm2bja5sr7g81.png?width=945&format=png&auto=webp&s=6bb50d036090b6c5a289655e11ddf6e1ea76758e
+
+**Snoop Dogg**
+
+&#x200B;
+
+https://preview.redd.it/rmk8d86xt7g81.png?width=316&format=png&auto=webp&s=56140160d688037f9c2628ee1b8e116ed059f09f
+
+&#x200B;
+
+ **Vitalik Buterin - co-founder Ethereum** 
+
+&#x200B;
+
+https://preview.redd.it/4wp0jpcvr7g81.png?width=345&format=png&auto=webp&s=ebbf9385fc7040321fd62d505f9cd75261b30675",positive,0.8925104,359
+533,2021-10-20,,positive,0.42418474,365
+534,2021-01-03,,positive,0.42418474,361
+535,2020-12-18,,positive,0.42418474,355
+536,2021-05-08,,positive,0.42418474,359
+537,2021-02-15,,positive,0.42418474,356
+538,2023-03-31,,positive,0.42418474,354
+539,2023-01-21,,positive,0.42418474,352
+540,2022-12-24,"Some fortune, huh?“Try to live life as one block at a time”…",positive,0.90703166,350
+541,2021-10-17,,positive,0.42418474,355
+542,2021-06-13,,positive,0.42418474,354
+543,2020-12-21,,positive,0.42418474,358
+544,2021-11-12,,positive,0.42418474,349
+545,2021-05-29,"Fully Diluted Market Cap and Market Caps?Hello guys, im trying to get my head around this, what actually makes a crypto currency value go up? I know its buying and selling but what determines that max price?
+
+For example lets use [Xenon Pay II price today, X2P live marketcap, chart, and info | CoinMarketCap](https://coinmarketcap.com/currencies/xenon-pay-ii/) X2P
+
+Max Supply = **150,000,000,000,000** so if all those coins were obtained it would result in a market cap of what?
+
+The **Fully Diluted Market Cap is** £**6,738,294** (**150,000,000,000,000\*Current price) 6.7 M**
+
+But what makes the price actually increase? this is really messing with my head.",positive,0.8862896,352
+546,2022-10-02,,positive,0.42418474,353
+547,2022-04-09,,positive,0.42418474,347
+548,2021-11-16,,positive,0.42418474,348
+549,2020-10-21,,positive,0.42418474,349
+550,2020-03-03,,positive,0.42418474,349
+551,2022-06-16,,positive,0.42418474,352
+552,2022-04-15,,positive,0.42418474,349
+553,2022-03-11,,positive,0.42418474,347
+554,2022-11-23,,positive,0.42418474,351
+555,2022-09-11,,positive,0.42418474,348
+556,2022-01-24,,positive,0.42418474,349
+557,2021-05-27,,positive,0.42418474,345
+558,2021-04-10,,positive,0.42418474,343
+559,2021-06-29,,positive,0.42418474,341
+560,2021-03-04,,positive,0.42418474,344
+561,2023-01-24,,positive,0.42418474,339
+562,2022-12-17,,positive,0.42418474,340
+563,2022-07-13,,positive,0.42418474,340
+564,2021-01-27,,positive,0.42418474,345
+565,2022-04-02,,positive,0.42418474,339
+566,2021-05-22,,positive,0.42418474,343
+567,2022-06-23,,positive,0.42418474,338
+568,2021-02-24,,positive,0.42418474,342
+569,2021-01-10,,positive,0.42418474,332
+570,2020-09-02,,positive,0.42418474,337
+571,2022-03-25,,positive,0.42418474,337
+572,2021-01-18,,positive,0.42418474,332
+573,2022-08-09,,positive,0.42418474,335
+574,2021-03-26,,positive,0.42418474,332
+575,2022-05-29,,positive,0.42418474,328
+576,2021-05-07,,positive,0.42418474,335
+577,2021-01-06,,positive,0.42418474,331
+578,2022-06-15,,positive,0.42418474,325
+579,2022-04-05,,positive,0.42418474,329
+580,2021-08-20,"I did NOT expect Cardano to increase this muchI was definitely expecting some sort of increase in price, but holyyy! If I knew I would have at least bet on it on CoinFantasy or something wtf… it took everybody by surprise. The real question that remains though, will it keep rising or a downfall is eminent?",positive,0.761915,327
+581,2020-08-02,,positive,0.42418474,328
+582,2021-06-21,,positive,0.42418474,327
+583,2021-02-15,,positive,0.42418474,331
+584,2022-05-17,,positive,0.42418474,326
+585,2022-04-07,,positive,0.42418474,324
+586,2022-01-18,,positive,0.42418474,331
+587,2020-10-31,,positive,0.42418474,326
+588,2020-03-23,,positive,0.42418474,325
+589,2022-02-26,,positive,0.42418474,326
+590,2021-11-28,,positive,0.42418474,330
+591,2022-03-06,,positive,0.42418474,323
+592,2020-12-30,,positive,0.42418474,322
+593,2022-02-10,,positive,0.42418474,326
+594,2021-10-15,,positive,0.42418474,327
+595,2021-09-30,,positive,0.42418474,325
+596,2022-12-10,,positive,0.42418474,323
+597,2022-12-22,,positive,0.42418474,321
+598,2022-11-17,,positive,0.42418474,327
+599,2022-04-13,,positive,0.42418474,323
+600,2021-01-16,,positive,0.42418474,315
+601,2022-07-03,,positive,0.42418474,316
+602,2022-01-29,,positive,0.42418474,319
+603,2020-01-08,,positive,0.42418474,318
+604,2023-03-31,,positive,0.42418474,318
+605,2021-08-23,"Here is why Google is fighting DeFi and decentralization in general.Not too long ago Google banned the advertisement of cryptocurrencies on it’s platform but soon reversed that decision. However it kept the ban on DeFi for a reason that many don’t really know.
+
+These same DeFi companies are developing and inspiring projects like Innoplexus that plan on forming platforms to render all data and information accessible to the public (whether free, for purchase or for lease) which is actually a revolutionary idea since this will help researchers and scientists find faster solutions to the countless problems we currently have.
+
+However this is very bad news for big tech companies like Google and Facebook who heavily rely on data as their main source of operation. You think all these very specific ads get on your screen by “coincidence” ? It’s all connected to the data being hoarded by these tech giants, and they do not plan on losing that data anytime soon",positive,0.88886404,319
+606,2021-04-10,,positive,0.42418474,319
+607,2021-02-13,"Where is a good place to get god crypto insight with as little fanboydom as possible?I’m newer to this and trying to do my research.
+
+I see there’s a bunch of subreddits set up for each coin a well as a few general subs. However the main subs appear to be a place where sects of the coin specific subs gather.
+
+Is there a way to get impartial information. 
+
+Seems like everyone is a champion of one coin or another. I don’t need to be beaten into buying stake in a coin because someone is blindly championing it, parroting their communities sentiments, or simply pumping out of their own self interest.
+
+Looking for honest, impartial and insightful conversation",positive,0.9180688,318
+608,2020-12-30,,positive,0.42418474,317
+609,2022-12-14,,positive,0.42418474,314
+610,2021-01-04,,positive,0.42418474,315
+611,2020-12-16,,positive,0.42418474,318
+612,2020-09-30,,positive,0.42418474,316
+613,2021-01-31,,positive,0.42418474,315
+614,2020-11-08,,positive,0.42418474,316
+615,2020-08-16,,positive,0.42418474,315
+616,2020-04-05,,positive,0.42418474,313
+617,2022-03-27,,positive,0.42418474,312
+618,2021-10-06,,positive,0.42418474,310
+619,2021-04-15,,positive,0.42418474,310
+620,2024-01-08,,positive,0.42418474,311
+621,2022-03-21,,positive,0.42418474,314
+622,2021-11-19,"There's big, billionaire conspiracy to take down Dogecoin and crypto as a whole with regulations At first I thought it's just one guy trying to pump his random coin(see Arthur Hayes article: [https://blog.bitmex.com/chain-reaction/](https://blog.bitmex.com/chain-reaction/) ), but then I saw more and more people jumping into new coin and I started connecting the dots.
+
+Some of you might already knew about Greyscale or Kucoin shorting Doge in May and causing it's price to drop, or Elon Musk suddenly causing BTC to crash(and Dogecoin with it), but it was only the begining. Now they want new coin that they market as ""one that will bonk Doge"" to create meltdown in the crypto market and spark the need for regulations.
+
+Here's some of that involvement illustrated here: [https://i.imgur.com/IYS33Yu.jpg](https://i.imgur.com/IYS33Yu.jpg)
+
+There's no way all these people decided to just get into some coin out of nowhere without big plan for it. There are even ""mysterious donors"" in their community that literally buy billboard ads in NY (see: [https://i.imgur.com/1Uzc5MG.jpg](https://i.imgur.com/1Uzc5MG.jpg)) and there's more and more coming in Australia, Germany, even in London or freaking Dubai, this isn't organic!
+
+Something like that doesn't just pop up organically, it's all planned. Nothing is like it seems. We need to spread awareness of this to whole crypto community, because it's not only attack again the Dogecoin, it's attack on whole crypto itself! Also, there's Bill Gates.
+
+Please help me spread awareness about this.",positive,0.893747,314
+623,2022-12-02,,positive,0.42418474,309
+624,2022-10-17,,positive,0.42418474,307
+625,2022-05-25,"When LUNA 2.0 goes live, would you buy it?Terra announced it will launch a new blockchain named LUNA 2.0 on May 27th, 2022. Terra’s stablecoin, UST, broke its 1:1 peg to the US dollar while LUNA fell 99%+ earlier this month, causing investors to lose billions of dollars. When LUNA 2.0 goes live, would you buy it?  
+
+[View Poll](https://www.reddit.com/poll/uxnpqs)",positive,0.57270527,310
+626,2021-08-22,,positive,0.42418474,314
+627,2020-08-12,,positive,0.42418474,312
+628,2020-06-02,,positive,0.42418474,311
+629,2022-07-29,,positive,0.42418474,308
+630,2021-11-24,"Potential crypto gems that still have room to grow.Without all the crap shilling happening, I would like to know which gems, based on fundamentals, tokenomics and market sectors you guys think have a lot of potential to keep growing in the next few years. Thanks!",positive,0.8195731,308
+631,2021-05-19,,positive,0.42418474,308
+632,2021-02-28,,positive,0.42418474,310
+633,2021-09-23,,positive,0.42418474,313
+634,2021-06-17,How to enhance the use of trading bots? Hello! I’m relatively new at crypto and using trading bots. The trading bot that I’m currently using is already set up and working smoothly well since it’s a set-up and forget type and I've been researching about how I could use one to maximize my gains. It seems like there are lots of ways to do it and it’s quite confusing to know which one really works. Can you give me insight on this? Please help me out here.,positive,0.89144725,307
+635,2023-01-12,,positive,0.42418474,312
+636,2024-03-05,"I did some secret squirrel shit Dropped $1000 into robinhood after a few people expressed to me that their outbound crypto transfers failed, but were still charged transfer fees. 
+
+I do it myself. I transfer $1000 in AAVE from robinhood to a brand new trust wallet account. 
+
+3 hours go by. I check congestion on the network meticulously. That was one of the claims people told me they were getting.  
+
+My transaction fails. They charge me $106 in transaction fees and return my $894. 
+
+I reach out to customer support. They tell me the failed transaction number doesn’t exist. We all know the outbound always exists on etherecan.  
+
+I say that’s not how this works. 
+
+They blame ethereum network. Tell me ethereum gas fees are taken by someone else. Not them. 
+
+Eth didn’t have insane congestion today to the point where a txn would fail. I request an initiation txn number. Or any proof the transaction started. Customer service states it doesn’t exist again. 
+
+Robinhood is stealing transaction fees for outbound transactions. The customer support agent folded and said, “I’ll forward this up to someone.” 
+
+If you’ve had this happen. Send your claim to the SEC. 
+
+Robinhood is trying to build capital on bullshit fees. ",positive,0.6762039,305
+637,2023-04-18,,positive,0.42418474,305
+638,2022-05-11,,positive,0.42418474,306
+639,2021-07-31,,positive,0.42418474,305
+640,2020-10-26,,positive,0.42418474,308
+641,2021-04-28,,positive,0.42418474,306
+642,2020-03-26,,positive,0.42418474,302
+643,2022-12-23,,positive,0.42418474,302
+644,2021-12-15,,positive,0.42418474,301
+645,2021-08-06,,positive,0.42418474,305
+646,2022-10-30,,positive,0.42418474,300
+647,2021-10-24,,positive,0.42418474,298
+648,2021-10-15,,positive,0.42418474,299
+649,2021-09-01,,positive,0.42418474,299
+650,2020-06-26,,positive,0.42418474,302
+651,2020-03-07,,positive,0.42418474,299
+652,2021-03-29,,positive,0.42418474,298
+653,2021-02-11,,positive,0.42418474,297
+654,2021-08-09,,positive,0.42418474,299
+655,2021-02-12,,positive,0.42418474,294
+656,2022-06-07,,positive,0.42418474,292
+657,2021-12-25,,positive,0.42418474,293
+658,2021-09-28,,positive,0.42418474,298
+659,2021-05-03,,positive,0.42418474,295
+660,2021-01-04,,positive,0.42418474,293
+661,2020-09-27,,positive,0.42418474,288
+662,2022-04-25,,positive,0.42418474,289
+663,2021-02-26,,positive,0.42418474,293
+664,2021-01-21,,positive,0.42418474,291
+665,2020-03-13,,positive,0.42418474,293
+666,2020-02-18,,positive,0.42418474,289
+667,2023-03-20,,positive,0.42418474,291
+668,2021-07-15,,positive,0.42418474,294
+669,2021-02-28,,positive,0.42418474,291
+670,2022-07-23,,positive,0.42418474,291
+671,2021-12-28,,positive,0.42418474,289
+672,2020-12-17,,positive,0.42418474,289
+673,2020-11-13,,positive,0.42418474,285
+674,2020-08-09,,positive,0.42418474,286
+675,2020-03-13,,positive,0.42418474,288
+676,2020-02-03,,positive,0.42418474,291
+677,2020-01-14,,positive,0.42418474,291
+678,2022-09-08,,positive,0.42418474,288
+679,2022-01-20,,positive,0.42418474,285
+680,2022-10-12,,positive,0.42418474,284
+681,2022-02-17,,positive,0.42418474,286
+682,2021-10-08,,positive,0.42418474,286
+683,2021-06-05,"Do you still believe in Bitcoin and the crypto market ???Major Francis Suarez wants to turn Miami into a crypto hub.
+
+In BitcoinMiami conference, Jack Dorsey said he would spend his lifetime on Bitcoin if he didn’t work for Twitter or Square. 
+
+Where are you now in this widely adoption?
+
+https://www.cnbc.com/2021/06/04/twitter-and-square-ceo-jack-dorsey-focused-on-bitcoin-btc.html#:~:text=Billionaire%20Jack%20Dorsey%2C%20co-founder,my%20lifetime%20to%20work%20on.%E2%80%9D",positive,0.9398665,287
+684,2021-03-12,,positive,0.42418474,283
+685,2020-08-10,,positive,0.42418474,288
+686,2022-12-12,,positive,0.42418474,284
+687,2022-11-09,"FTT token still selling for over $8.50 on DEX 
+
+At this time of writing, ~~1inch DEX edit: 1inch is back to sub $6~~, it seems [`https://raydium.io`](https://raydium.bio/) dex still has plenty of liquidity in the 7-9$ FTT range, while the price listed on ftx is under $4. strange
+
+Is there any CEX that is allowing FTT withdrawals at the moment? I have a potential money making idea id like to try.
+
+And, rumor has it that FTT will be heading right back to $20+ by next week. Binance is buying FTX, yes ,but FTX will remain as a seperate entity and thus FTT will remain valuable
+
+anyhow, lets ride this storm out guys, calm and dont panic sell or do anything stupid
+
+&#x200B;
+
+https://preview.redd.it/cn1ab2sq3zy91.png?width=386&format=png&auto=webp&s=8c619931565c110e4741bad2565091a06e17b75d
+
+https://preview.redd.it/u0b2cftq3zy91.png?width=386&format=png&auto=webp&s=35c1214dad2decb98fa5ca32446a17a99997bf8a
+
+https://preview.redd.it/y2xb6buq3zy91.png?width=386&format=png&auto=webp&s=879879c7dc2e45b335e0b453267f1541cda48de9
+
+https://preview.redd.it/sahi90vq3zy91.png?width=386&format=png&auto=webp&s=793ba638eaf70122c31e8593d87c1fc828cf5049
+
+https://preview.redd.it/y8rdrsvq3zy91.png?width=386&format=png&auto=webp&s=f7d06a921520bec84eea4402b5e116ab1b903183
+
+https://preview.redd.it/5f2qxewq3zy91.png?width=386&format=png&auto=webp&s=0631dc7c7b94e7d552e52df7f429c45675139f6a
+
+https://preview.redd.it/ffefm7xq3zy91.png?width=386&format=png&auto=webp&s=97c17ef79c69b202f8ec7bb7943605ca1c674934
+
+https://preview.redd.it/br36csxq3zy91.png?width=386&format=png&auto=webp&s=b7edd56692ce2a7ac3a0a7c577b34380252029ea
+
+https://preview.redd.it/mlpw9iyq3zy91.png?width=386&format=png&auto=webp&s=cb76c9f2d3608d4812891cf9e4984f17c5fb63db
+
+https://preview.redd.it/vboolazq3zy91.png?width=386&format=png&auto=webp&s=72b7ffe4cc8de6016a5a86821456f77d7c912ee3
+
+https://preview.redd.it/b9xhi40r3zy91.png?width=386&format=png&auto=webp&s=8992e4c41ba044ac593138c9bae0991b247cd686
+
+https://preview.redd.it/dawt9f0r3zy91.png?width=386&format=png&auto=webp&s=54728d37709d752c2edbec93aea0fdd62f5239a8
+
+https://preview.redd.it/wyqf761r3zy91.png?width=386&format=png&auto=webp&s=d4f413a16c4443cfb72fae2d3fb71d88be916023
+
+https://preview.redd.it/go1mq02r3zy91.png?width=386&format=png&auto=webp&s=4bb52df3e52a37765846b9cb1fe61ef53ef1a8d7
+
+https://preview.redd.it/276atm2r3zy91.png?width=386&format=png&auto=webp&s=05ea1fd7c9b6b5d89feed7dea5b6e47bfc6c19c1
+
+https://preview.redd.it/myq8063r3zy91.png?width=386&format=png&auto=webp&s=1b501805900dd0ad7f8daafa0ff2e6d29f65b5ab",positive,0.8892437,363
+688,2020-08-21,,positive,0.42418474,288
+689,2021-03-30,,positive,0.42418474,286
+690,2021-03-10,,positive,0.42418474,284
+691,2020-12-18,,positive,0.42418474,285
+692,2022-09-14,,positive,0.42418474,285
+693,2021-09-07,,positive,0.42418474,284
+694,2021-06-01,,positive,0.42418474,279
+695,2021-02-20,,positive,0.42418474,280
+696,2021-10-20,,positive,0.42418474,280
+697,2020-11-15,,positive,0.42418474,282
+698,2022-03-29,,positive,0.42418474,279
+699,2020-03-16,,positive,0.42418474,281
+700,2022-07-06,,positive,0.42418474,283
+701,2022-04-09,,positive,0.42418474,283
+702,2022-03-19,,positive,0.42418474,281
+703,2021-12-01,,positive,0.42418474,280
+704,2021-02-07,,positive,0.42418474,277
+705,2022-06-07,,positive,0.42418474,278
+706,2022-08-22,,positive,0.42418474,281
+707,2022-04-10,,positive,0.42418474,278
+708,2023-03-10,,positive,0.42418474,277
+709,2022-08-26,,positive,0.42418474,272
+710,2021-12-21,,positive,0.42418474,276
+711,2021-06-04,,positive,0.42418474,274
+712,2022-11-28,,positive,0.42418474,275
+713,2021-03-07,,positive,0.42418474,275
+714,2020-09-14,,positive,0.42418474,274
+715,2020-10-31,,positive,0.42418474,278
+716,2021-11-25,,positive,0.42418474,273
+717,2022-05-02,,positive,0.42418474,271
+718,2021-01-25,,positive,0.42418474,275
+719,2020-12-21,,positive,0.42418474,273
+720,2020-12-01,,positive,0.42418474,273
+721,2019-12-20,,positive,0.42418474,271
+722,2022-12-06,,positive,0.42418474,274
+723,2022-06-16,,positive,0.42418474,271
+724,2022-01-25,,positive,0.42418474,271
+725,2020-06-03,,positive,0.42418474,274
+726,2022-03-11,,positive,0.42418474,269
+727,2021-01-24,,positive,0.42418474,270
+728,2020-06-06,,positive,0.42418474,274
+729,2022-08-11,,positive,0.42418474,266
+730,2022-06-20,"Jim Cramer Expects Bitcoin to Fall to $12,000&#x200B;
+
+https://preview.redd.it/ot1hh5n4bs691.jpg?width=1280&format=pjpg&auto=webp&s=3bdcb853e216066bb35a74fc571b496e0f300be0
+
+CNBC’s Jim Cramer says he ""thinks Bitcoin BTC goes to $12,000, where it was before this whole fiasco began."" 
+
+BTC made a new 2022 low of $17,592 this weekend. Do you think $BTC might trade as low as $12,000?",neutral,0.9492798,265
+731,2022-05-23,,positive,0.42418474,272
+732,2021-01-27,,positive,0.42418474,271
+733,2020-06-05,,positive,0.42418474,268
+734,2023-01-26,,positive,0.42418474,270
+735,2022-10-10,,positive,0.42418474,267
+736,2021-12-18,,positive,0.42418474,269
+737,2021-12-05,,positive,0.42418474,267
+738,2021-06-26,,positive,0.42418474,272
+739,2021-01-03,,positive,0.42418474,266
+740,2023-04-19,,positive,0.42418474,265
+741,2022-10-04,,positive,0.42418474,263
+742,2022-08-06,,positive,0.42418474,268
+743,2022-08-01,,positive,0.42418474,264
+744,2021-02-19,,positive,0.42418474,268
+745,2021-01-20,,positive,0.42418474,272
+746,2023-03-26,,positive,0.42418474,262
+747,2022-04-06,,positive,0.42418474,264
+748,2021-06-10,,positive,0.42418474,266
+749,2021-05-16,,positive,0.42418474,266
+750,2021-03-04,,positive,0.42418474,264
+751,2020-12-19,,positive,0.42418474,264
+752,2020-09-27,,positive,0.42418474,263
+753,2020-03-30,,positive,0.42418474,267
+754,2020-01-23,,positive,0.42418474,267
+755,2023-04-03,,positive,0.42418474,263
+756,2021-10-26,,positive,0.42418474,261
+757,2021-04-23,,positive,0.42418474,267
+758,2023-03-13,,positive,0.42418474,262
+759,2021-09-01,,positive,0.42418474,265
+760,2023-03-28,,positive,0.42418474,266
+761,2022-05-01,,positive,0.42418474,266
+762,2022-03-18,,positive,0.42418474,267
+763,2022-03-09,,positive,0.42418474,259
+764,2022-01-18,"Just a reminder to hold any stablecoin other than USDT.Aside from the fact that it’s actually way safer for you, replacing USDT for other stablecoins will decrease the market cap of Tether and thus make it’s grips on the market looser and looser.
+
+There are so many other stablecoins that are legitimately backed by a 1:1 ratio like USDC, EURST, BUSD and my favorite USDT.
+
+If anything we’re slowly starting to see USDT lose dominance in the market and growth is starting to decrease.
+
+These are all good signs. I hope we finally get rid of that scam coin plaguing the market.",neutral,0.6409233,264
+765,2023-01-23,,positive,0.42418474,258
+766,2022-02-25,"Robinhood users were able to place orders to buy BTC at around $34,500, about $4,000 below the current rate, but one of them has been fulfilledRobinhood users were able to place orders [to buy BTC](https://swapzone.io/currencies/bitcoin?utm_source=reddit&utm_medium=social&utm_campaign=promo) at around $34,500, about $4,000 below the current rate. According to media reports, none of them has been fulfilled.
+
+The online broker acknowledged that there was a “temporary issue that caused the price of the cryptocurrency to be displayed incorrectly for an hour at \[Feb 25\] 18:50 PT” and also announced a solution to the problem.
+
+So basically traders on Robinhood were left perplexed by a seemingly steep discount in the price of bitcoin on the investment and yes, the issue has since been resolved, but customers who tried to execute trades during that time have been left with unfilled orders?
+
+[Source](https://oltnews.com/bitcoin-price-briefly-displayed-at-heavy-discount-on-robinhood-app)
+
+https://preview.redd.it/ruiykkpwlyj81.png?width=1162&format=png&auto=webp&s=6c57bbd5bba034c1bc0412ccaa8ed9a3fcf333a2",neutral,0.92282504,265
+767,2021-08-28,"Thoughts on ADA after smart contracts?I sold my ADA a few days ago because I feel once smart contracts are live price will correct in a big way until there's an actual ecosystem and value in the network.
+
+It's hard for me to conceive the 90 billions dollar market cap with no real usage right, just a promise.
+
+I will definitely consider buying again in the future, so it's not an ADA hate post or anything like that.
+
+What are your thoughts or strategy around ADA?",positive,0.9234815,263
+768,2020-11-18,,positive,0.42418474,262
+769,2022-12-22,,positive,0.42418474,258
+770,2022-07-27,,positive,0.42418474,263
+771,2022-02-28,,positive,0.42418474,259
+772,2022-02-10,,positive,0.42418474,258
+773,2021-01-01,,positive,0.42418474,263
+774,2023-05-15,,positive,0.42418474,257
+775,2023-05-08,,positive,0.42418474,262
+776,2023-02-15,,positive,0.42418474,259
+777,2021-11-29,,positive,0.42418474,260
+778,2021-11-25,,positive,0.42418474,258
+779,2021-01-28,,positive,0.42418474,260
+780,2020-08-25,,positive,0.42418474,258
+781,2022-10-26,,positive,0.42418474,254
+782,2023-07-27,,positive,0.42418474,250
+783,2024-06-04,"Eth buy or cry later like me....Just imagine, eth token was launched in August of 2014 with first stage of ICO price 0.31 usdt per token. Now price of eth is 3752 usd per token, that means if you bought it for 100 usd (322 ETH tokens), now it would be 1 208 144 usd. It’s one more prove, that Crypto industry is the future. ",positive,0.9276861,234
+784,2024-08-20,"Everything is a SCAM. It's disheartening to see so many people talking about crypto being a scam. Most of the crypto Reddit forums are bearish which makes me more bullish. It is impossible for crypto to be a scam. The code, the blockchain, they aren't inheritly scammy. Crypto is the only industry where everybody is blamed for the actions of a few bad actors. 
+
+In the 1920s people were over leveraging their positions in stocks. Then the market crashed. 
+Were stocks a scam? 
+
+After the markets crashed a guy named Charles Ponzi created a scheme where you couldn't lose money. He promised a fixed return of 50% in 90 days. Thousands of people still reeling from the crash of the 1920s put what they could in Charles investment scheme. You should know what happened next. Charles gave people pieces of paper and they gave him money. 
+Was money a scam? 
+
+Bernie Madoff ran the same Ponzi scheme 60 years later. He was smart enough to only promise 15% per year. But he told people it was from trading, when it was really just a scam. Bernie was found guilty. But stocks and investments kept on. 
+
+Crypto has gone through numerous of these disaster situations. The latest ones are the ones I believe are affecting your mental the most. One of them was Sam Bankman Fried. There was nothing elusive or slick about what he did. You deposited money into his exchange and he put that into his personal account. People who had the power to stop him were too close to the situation because they were invested themselves. He also took rival cryptos he didn't like and sold them to drive the narrative that Solana was superior to everything else. 
+
+Luna was a design flaw. It was going to crash eventually. People signed up on a proprietary website without any 3rd party validation and once again thought they were getting 20% interest. The interest was in a mintable token so to maintain the rate all they had to do was turn on the money printer. 
+
+Newsflash this is how the current money system plays out. You put money in a bank and the bank promises you an interest rate. The rate just happens to be a bit lower than the federal rate. Translation the bank is paying your ""interest"" backed by the government which can't fail. All the government has to do is print more money. This is how the entire monetary system plays out. Is the entire monetary system a scam? (hehe you won't like my answer) 
+
+There are bad actors in every part of the financial system. But you don't blame stocks when a single company crashes. You don't blame the money when you get scammed. But when crypto scams happen you blame the entire industry. 
+
+Crypto is here to stay, and there's lots of opportunity in it. But not if you focus on the negative. ",positive,0.6960765,199
+785,2024-07-24,,positive,0.42418474,182
+786,2024-04-24,"Unpopular Opinion. ADA & XRP are trash. Stop buying it.These coins have consistently been making Lower Highs and Lower Lows against BTC correlation. You're just exit liquidity. You're gonna destroy your life and networth hoping these coins outperform the market.
+
+Update since post was uploaded: ADA is down another 35% since I uploaded this post  GG’s. At some point you have to ask yourself. If everyone who believes in ADA has already bought, who else is left to buy? 
+
+No new buyers = number go down",neutral,0.94620043,164
+787,2024-11-13,"You got this Hey everyone, I been in the crypto markets since 2020 at the end of last bull & through the bear market 
+
+Just want to tell everyone , this is the beginning of a good phase , scoop up some alts & start accumulating btc if your new. Don’t go all in because it will have opportunities to back track to cool down 
+
+Learn trading & always remember , even if you only made $1. It’s still 1 more dollar that you didn’t have before. Emotions & greed will make you lose money. Patience & not being greedy won’t. Good luck & change your life around a little. Learn learn learn ",positive,0.90169436,162
+788,2024-11-10,"The whole world buying crypto right now!I can't focus. 
+
+Too much to do. 
+
+Too many coins pumping.
+
+I simultaneously miss and hate this feeling.",neutral,0.8324249,150
+789,2024-07-04,If you think the Bitcoin top already hit and cycle is over then you are crazySo all those people who say the cycle is over just forgot that we just had halving ? You forgot that we hit a new all time high before halving so obviously there was going to be a major retrace ? Every cycle after halving there is months of a lull and boring price action . And thats when we don't hit an all time high before halving . Obviously if we hit an all time high before halving there is going to be down ward price action . Stocks are performing well. Everything is okay . Imo we will hit 90 k before year is over and be over 150 before next year is over. We will Probs  have 2 more months of bleh . If you look at current rsi data and compare it to previous cycles we are STILL above the trend . We are doing great everyone m. But buy now or regret it. ,positive,0.48202744,132
+790,2024-11-08,"Does Trump winning the US elections actually have an effect in crypto?The price of bitcoin went up when Trump won, are these two things related with each other or just a coincidence?",positive,0.8592063,121
+791,2024-06-13,"I've lost everything trading with high leverageAbout a year ago, I bought BTC and ETH without leverage and that has brought me with %100+ returns and almost $600 in profit which is a lot for me. I've read tons of stories about how people lost everything after getting overconfident, and I'm sad to say I fell down the same path.
+
+Before I say anything more, I want to mention that I'm only 15, and definitely didn't know enough to be playing with leverage. In short, I convinced my parents that I will invest another $400 (all the money I had left other than the initial BTC and ETH) and decided to put it into RNDR, after a 10% dip with 5x leverage. Little did I know that dip would soon dip even more, as I watched my balance slowly decrease, 10%, 20%, 30% and finally 50% where I closed my position and decided to open another position with 10x leverage to try and recover my losses. This ended up being the last time I see the money as I soon ended up getting liquidated and losing everything.
+
+I know for some of you here $400 is nothing but as a 15 year old that's all I had saved up. I've always been the type to never spend any of my allowance money and always save it so losing years worth of that really is a pain. On one hand I'm grateful I learned this lesson this early on made a promise to myself now to never use leverage again.
+
+If anyone reading this is thinking of starting leverage trading I hope this made you change your mind and possible save you hundreds or even thousands. I'm done trading now and will just hold my BTC and ETH.",positive,0.73019236,120
+792,2024-07-30,"RIP Altcoins Investing in altcoins was fun from about 2013 - 2018. Finding 100 baggers was the pursuit of the day. Nowadays it's full of frogz, dogz and cats pumping and dumping in an hour. Rip Alts.  ",positive,0.9319399,114
+793,2024-07-02,"What is the best cryptocurrency to invest in right now?
+I realize that the best choice depends on my own financial goals and how much risk I'm willing to take. For me, Bitcoin feels like a safe bet because it’s been around for a while and is secure. I also like Ethereum for its smart contracts and the growing DeFi market. Sometimes, I look at newer coins like Cardano or Solana because they might offer big returns. In the end, I believe it's important to research well, keep up with market news and only invest money I can afford to lose. Thanks for the suggestions in advance!",positive,0.78290594,113
